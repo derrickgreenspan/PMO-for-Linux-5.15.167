@@ -49,7 +49,7 @@ To build the kernel:
 	can use, for example, in Arch Linux, you can find your running 
 	config living in /proc/config.gz.
 
-	There is a helper script, linux-5.14.18-pmo/compile.sh that
+	There is a helper script, linux-5.15.167-PMO/compile.sh that
 	you may use to help build the kernel; as its last step, it will 
 	reboot the computer. 
 
