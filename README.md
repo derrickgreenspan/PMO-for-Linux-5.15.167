@@ -18,6 +18,7 @@ Caveat Utilitor:
 ============================================================================
 
 To understand how PMOs operate, please read the following papers:
+
 [Improving the Security and Programmability of Persistent Memory Objects (SEED 2022)](https://ieeexplore.ieee.org/document/9935011/)
 
 [LOaPP: Improving the Performance of Persistent Memory Objects via Low-Overhead at-Rest PMO Protection (SEED 2024)](https://ieeexplore.ieee.org/document/10738362)
