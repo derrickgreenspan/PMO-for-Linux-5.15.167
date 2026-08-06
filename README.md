@@ -3,7 +3,6 @@ The code here is released under the terms of the GNU GPL license.
 Copyright is retained by Derrick Greenspan and the University of Central 
 Florida (UCF). (C) 2020-2026
 
-
 ============================================================================
 
 Caveat Utilitor:  
@@ -15,6 +14,24 @@ Caveat Utilitor:
 	
 	I.e., no one is liable if the code causes you to lose data, or if
 	it causes you to enter into a different dimension, or anything else.
+
+============================================================================
+To understand how PMOs operate, please read the following papers:
+[Improving the Security and Programmability of Persistent Memory Objects (SEED 2022)](https://ieeexplore.ieee.org/document/9935011/)
+[LOaPP: Improving the Performance of Persistent Memory Objects via Low-Overhead at-Rest PMO Protection (SEED 2024)](https://ieeexplore.ieee.org/document/10738362)
+[Persistent Memory Objects on the Cheap (ICS 2025)](https://dl.acm.org/doi/10.1145/3721145.3734533)
+
+If you use this work in your research, please cite our ICS 2025 paper:
+```
+@inproceedings{greenspan2025Persistent,
+  title={Persistent Memory Objects on the Cheap},
+  author={Greenspan, Derrick and Mustafa, Naveed Ul and Choi, Jongouk and Heinrich, Mark and Solihin, Yan},
+  booktitle={ACM International Conference on Supercomputing 2025},
+  year={2025},
+  organization={ACM}
+}
+```
+
 
 ============================================================================
 
@@ -56,3 +73,4 @@ To configure your NVMM for PMOs:
 Don't forget to include the pmo.h header you build in pmo_lib for your code!
 
 ============================================================================
+
