@@ -1,6 +1,6 @@
 The code here is released under the terms of the GNU GPL license.
 
-Copyright is retained by Derrick Greenspan and the University of Central 
+Copyright is retained by Dr. Derrick Greenspan and the University of Central 
 Florida (UCF). (C) 2020-2026
 
 ============================================================================
