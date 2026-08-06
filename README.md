@@ -22,7 +22,7 @@ To understand how PMOs operate, please read the following papers:
 [Persistent Memory Objects on the Cheap (ICS 2025)](https://dl.acm.org/doi/10.1145/3721145.3734533)
 
 If you use this work in your research, please cite our ICS 2025 paper:
-```
+```bibtex
 @inproceedings{greenspan2025Persistent,
   title={Persistent Memory Objects on the Cheap},
   author={Greenspan, Derrick and Mustafa, Naveed Ul and Choi, Jongouk and Heinrich, Mark and Solihin, Yan},
