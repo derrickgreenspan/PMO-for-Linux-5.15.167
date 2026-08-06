@@ -1,7 +1,7 @@
 The code here is released under the terms of the GNU GPL license.
 
-Copyright is retained by [Dr. Derrick Greenspan](https://derrickgreenspan.com) and the University of Central 
-Florida (UCF). (C) 2020-2026
+Copyright is retained by [Dr. Derrick Greenspan](https://derrickgreenspan.com) and the [University of Central 
+Florida (UCF)](https://ucf.edu). (C) 2020-2026
 
 ============================================================================
 
