@@ -16,10 +16,14 @@ Caveat Utilitor:
 	it causes you to enter into a different dimension, or anything else.
 
 ============================================================================
+
 To understand how PMOs operate, please read the following papers:
 [Improving the Security and Programmability of Persistent Memory Objects (SEED 2022)](https://ieeexplore.ieee.org/document/9935011/)
+
 [LOaPP: Improving the Performance of Persistent Memory Objects via Low-Overhead at-Rest PMO Protection (SEED 2024)](https://ieeexplore.ieee.org/document/10738362)
+
 [Persistent Memory Objects on the Cheap (ICS 2025)](https://dl.acm.org/doi/10.1145/3721145.3734533)
+
 
 If you use this work in your research, please cite our ICS 2025 paper:
 ```bibtex
